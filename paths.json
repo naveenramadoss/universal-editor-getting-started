@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/universal-editor-getting-started-example-site/:/",
-    "/content/universal-editor-getting-started-example-site/configuration:/.helix/config.json",
-    "/content/universal-editor-getting-started-example-site/metadata:/metadata.json"
+    "/content/universal-editor-getting-started-example-site1/:/",
+    "/content/universal-editor-getting-started-example-site1/configuration:/.helix/config.json",
+    "/content/universal-editor-getting-started-example-site1/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/universal-editor-getting-started-example-site/"
+    "/content/universal-editor-getting-started-example-site1/"
   ]
 }
